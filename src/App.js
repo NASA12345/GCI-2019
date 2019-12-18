@@ -6,9 +6,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+       GCI-2019-REACT-APP-<Nayan>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welcome to Google Code-in 2019
         </p>
         <a
           className="App-link"
